@@ -1,4 +1,4 @@
-Config project
+Config project:
 
 GitHub
 
